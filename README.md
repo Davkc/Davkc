@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I'm currently working on<br><br>An enterprise appointment scheduling platform for home health services, built with React, Node.js, Typescript & PostgreSQL — designed to scale across the Nigerian healthcare market<br><br>👯 I'm looking to collaborate on<br><br>Fintech tools, trading dashboards, or full-stack web apps where clean architecture and real-world impact matter<br><br>🤝 I'm looking for help with<br><br>System design patterns for high-availability APIs and optimizing cloud deployments on AWS at scale<br><br>🌱 I'm currently learning<br><br>TypeScript, cloud architecture (AWS), and data structures & algorithms as I transfer into Software engineering Ba Program  at UT Dallas<br><br>💬 Ask me about<br><br>Building full-stack apps from scratch, futures trading platforms, or navigating the path from community college to a top CS program<br><br>⚡ Fun fact<br><br>I enjoy learning how money works how to leverage oppurtunities in the financial markets, also being involved in understanding how start ups work and how to leverage AI LLMS to create enterprise level products that solve real life consumer problems 
+Hey There!, 
+
+I'm David, a upcoming Software engineer based in Dallas.
+
+I am looking to build quality products that i can imagine from scratch that solve real world problems. 
+
+🔭 I'm currently working on<br><br>An appointment scheduling platform for home health services, built with React, Node.js, Typescript & PostgreSQL — designed to scale across the Nigerian healthcare market<br><br>👯 I'm looking to collaborate on<br><br>Fintech tools, trading dashboards, or full-stack web apps where clean architecture and real-world impact matter<br><br>🤝 I'm looking for help with<br><br>System design patterns for high-availability APIs and optimizing cloud deployments on AWS at scale<br><br>🌱 I'm currently learning<br><br>TypeScript, cloud architecture (AWS), and data structures & algorithms as I transfer into Software engineering Ba Program  at UT Dallas<br><br>💬 Ask me about<br><br>Building full-stack apps from scratch, futures trading platforms, or navigating the path from community college to a top CS program<br><br>⚡ Fun fact<br><br>I enjoy learning how money works how to leverage oppurtunities in the financial markets, also being involved in understanding how start ups work and how to leverage AI LLMS to create enterprise level products that solve real life consumer problems 
 
 
 # 💻 Tech Stack:
